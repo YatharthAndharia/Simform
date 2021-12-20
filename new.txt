@@ -1,1 +1,2 @@
 New File to make conflict possible.
+3rd Line of file
